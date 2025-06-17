@@ -1,0 +1,150 @@
+[
+    {
+        "Name": "John Doe",
+        "ID": "OCR123456",
+        "Email": "john.doe@example.com",
+        "Notes": "Processed using OCR"
+    },
+    {
+        "Name": "Bob Johnson",
+        "ID": "MAN998877",
+        "Email": "bob.j@example.com",
+        "Notes": "Typed entry"
+    },
+    {
+        "Name": "Jane Smith",
+        "ID": "OCR654321",
+        "Email": "jane.smith@example.com",
+        "Notes": "Scanned document OCR"
+    },
+    {
+        "Name": "Alice Brown",
+        "ID": "MAN001122",
+        "Email": "alice.b@example.com",
+        "Notes": "Manually entered data"
+    },
+    {
+        "Name": "John Doe",
+        "ID": "OCR123456",
+        "Email": "john.doe@example.com",
+        "Notes": "Processed using OCR"
+    },
+    {
+        "Name": "Alice Brown",
+        "ID": "MAN001122",
+        "Email": "alice.b@example.com",
+        "Notes": "Manually entered data"
+    },
+    {
+        "Name": "Alice Brown",
+        "ID": "MAN001122",
+        "Email": "alice.b@example.com",
+        "Notes": "Manually entered data"
+    },
+    {
+        "Name": "Alice Brown",
+        "ID": "MAN001122",
+        "Email": "alice.b@example.com",
+        "Notes": "Manually entered data"
+    },
+    {
+        "Name": "Bob Johnson",
+        "ID": "MAN998877",
+        "Email": "bob.j@example.com",
+        "Notes": "Typed entry"
+    },
+    {
+        "Name": "Bob Johnson",
+        "ID": "MAN998877",
+        "Email": "bob.j@example.com",
+        "Notes": "Typed entry"
+    },
+    {
+        "Name": "John Doe",
+        "ID": "OCR123456",
+        "Email": "john.doe@example.com",
+        "Notes": "Processed using OCR"
+    },
+    {
+        "Name": "John Doe",
+        "ID": "OCR123456",
+        "Email": "john.doe@example.com",
+        "Notes": "Processed using OCR"
+    },
+    {
+        "Name": "Bob Johnson",
+        "ID": "MAN998877",
+        "Email": "bob.j@example.com",
+        "Notes": "Typed entry"
+    },
+    {
+        "Name": "Jane Smith",
+        "ID": "OCR654321",
+        "Email": "jane.smith@example.com",
+        "Notes": "Scanned document OCR"
+    },
+    {
+        "Name": "John Doe",
+        "ID": "OCR123456",
+        "Email": "john.doe@example.com",
+        "Notes": "Processed using OCR"
+    },
+    {
+        "Name": "Jane Smith",
+        "ID": "OCR654321",
+        "Email": "jane.smith@example.com",
+        "Notes": "Scanned document OCR"
+    },
+    {
+        "Name": "Jane Smith",
+        "ID": "OCR654321",
+        "Email": "jane.smith@example.com",
+        "Notes": "Scanned document OCR"
+    },
+    {
+        "Name": "John Doe",
+        "ID": "OCR123456",
+        "Email": "john.doe@example.com",
+        "Notes": "Processed using OCR"
+    },
+    {
+        "Name": "Jane Smith",
+        "ID": "OCR654321",
+        "Email": "jane.smith@example.com",
+        "Notes": "Scanned document OCR"
+    },
+    {
+        "Name": "Jane Smith",
+        "ID": "OCR654321",
+        "Email": "jane.smith@example.com",
+        "Notes": "Scanned document OCR"
+    },
+    {
+        "Name": "John Doe",
+        "ID": "OCR123456",
+        "Email": "john.doe@example.com",
+        "Notes": "Processed using OCR"
+    },
+    {
+        "Name": "John Doe",
+        "ID": "OCR123456",
+        "Email": "john.doe@example.com",
+        "Notes": "Processed using OCR"
+    },
+    {
+        "Name": "Jane Smith",
+        "ID": "OCR654321",
+        "Email": "jane.smith@example.com",
+        "Notes": "Scanned document OCR"
+    },
+    {
+        "Name": "Bob Johnson",
+        "ID": "MAN998877",
+        "Email": "bob.j@example.com",
+        "Notes": "Typed entry"
+    },
+    {
+        "Name": "Jane Smith",
+        "ID": "OCR654321",
+        "Email": "jane.smith@example.com",
+        "Notes":

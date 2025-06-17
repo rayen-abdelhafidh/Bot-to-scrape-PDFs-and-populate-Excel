@@ -1,0 +1,13 @@
+fields:
+  - name: Invoice No
+    pattern: 'Invoice\s*[#:]*\s*(\w+)'
+    default: N/A
+  - name: Client Name
+    pattern: '(Client\s*Name|Client)\s*[:]*\s*(.+)'
+    default: N/A
+  - name: Date
+    # Date handled by extract_date
+    default: N/A
+  - name: Total
+    pattern: 'Total\s*[:]*\s*\$?(\d+[.,]\d+)'
+    default: N/A

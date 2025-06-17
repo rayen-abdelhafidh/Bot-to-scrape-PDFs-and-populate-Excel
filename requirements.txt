@@ -1,0 +1,12 @@
+pymupdf
+pdf2image
+pytesseract
+pandas
+openpyxl
+opencv-python
+python-dateutil
+tqdm
+pyyaml
+camelot-py[cv]
+spacy
+requests
