@@ -3,7 +3,7 @@ import logging
 import json
 import os
 
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = "..."
 OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions"
 OPENROUTER_MODEL = "openai/gpt-3.5-turbo"
 
